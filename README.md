@@ -1,7 +1,7 @@
 # Breeze-Chameleon-Light
 Plasma Theme
 
-Changelog:29.07.2019.
+Changelog: 29.07.2019.
 ---------------------
 
 Added widget: clock.svg
